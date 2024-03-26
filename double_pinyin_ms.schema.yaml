@@ -7,7 +7,7 @@
 
 # 方案说明
 schema:
-  schema_id: double_pinyin_flypy
+  schema_id: double_pinyin_ms
   name: "微软双拼"
   version: "24.03.20"
   author:

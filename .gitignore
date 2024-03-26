@@ -8,3 +8,5 @@ installation.yaml
 # 部署生成的文件
 build
 *.userdb
+
+sync

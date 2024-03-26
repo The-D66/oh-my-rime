@@ -14,7 +14,7 @@ patch:
     Shift_R: inline_ascii
   "menu/page_size": 6
   schema_list:
-    - {schema: double_pinyin_flypy}
+    - {schema: double_pinyin_ms}
   "switcher/hotkeys":
     - "Control+grave"
   "translator/enable_encoder": true
